@@ -34,8 +34,4 @@ value = document.forms[0].name
 value = document.forms[0].method
 
 
-
-
-
-
 console.log(value);
